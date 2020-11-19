@@ -1,0 +1,11 @@
+[q,r,p,g].
+
+p.
+
+[
+    [1, q, premise],
+    [2, r, premise],
+    [3, p, premise],
+    [4, g, premise],
+    [5, p, premise]
+].
