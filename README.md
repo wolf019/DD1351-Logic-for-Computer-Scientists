@@ -1,6 +1,7 @@
 # DD1351-Logic-for-Computer-Scientists
 KTH, DD1351,Logic for Computer Scientists 
 
+### Laborationerna i kursen har syftet att fördjupa förståelsen av några utvalda logiska koncept och ge en känsla för praktisk användning av verktyg baserade på logik.
 
 ### Varje labb redovisas på två sätt:
 - En muntlig redovisning (där bägge gruppmedlemmarna är närvarande), där man provkör sitt program för labbassistenten och svarar på dennes frågor om hur programmet är konstruerat;
